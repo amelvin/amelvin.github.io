@@ -1,2 +1,3 @@
 # amelvin.github.io
-amelvin blog
+amelvin ideas
+
